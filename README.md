@@ -14,6 +14,7 @@ _Learn why conflicts happen and how to resolve them._
 </header>
 
 <!--
+
   <<< Author notes: Step 4 >>>
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
@@ -32,6 +33,31 @@ You can now [merge](https://docs.github.com/en/get-started/quickstart/github-glo
 1. Click **Merge pull request**.
 1. Delete the branch `my-resume` (optional).
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+
+  <<< Author notes: Finish >>>
+  Review what we learned, ask for feedback, provide next steps.
+-->
+
+## Finish
+
+_Congratulations friend, you've completed this course!_
+
+<img src=https://octodex.github.com/images/benevocats.jpg alt=celebrate width=300 align=right>
+
+Here's a recap of all the tasks you've accomplished in your repository:
+
+- You learned why merge conflicts happen.
+- You resolved a simple merge conflict.
+- You created a merge conflict, and resolved it!
+
+### What's next?
+
+- Make your own Markdown resume site with GitHub Pages! Learn how in our [GitHub Pages](https://github.com/skills/github-pages) course.
+- We'd love to hear what you thought of this course [in our discussion board](https://github.com/orgs/skills/discussions/categories/resolve-merge-conflicts).
+- [Take another GitHub Skills course](https://github.com/skills).
+- [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
+- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
+
 
 <footer>
 
